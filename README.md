@@ -6,4 +6,4 @@
 
 ---------
 
-과제 3 - 요구사항 분석서: [doc/Requirement_Definition.md](./doc/Requirement_Definition.md)
+과제 3 - 요구사항 정의서: [doc/Requirement_Definition.md](./doc/Requirement_Definition.md)
